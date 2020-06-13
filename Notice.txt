@@ -1,0 +1,5 @@
+1. C:\xampp\htdocs\final 
+2. import ecom.sql
+3.login for Admin site..
+  UserName:admin
+  Password:admin
